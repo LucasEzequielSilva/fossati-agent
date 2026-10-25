@@ -23,7 +23,7 @@ Criterio: lo elegí con el agente de Fossati (anunciar el de ticket alto, tener 
 
 Los ARS son la conversión de Amazon. Tu costo real = USD con Dólar App × tu tipo de cambio + los cargos de importación (el checkout de Amazon los muestra al elegir dirección argentina).
 
-Precios de ejemplo en el funnel: Pro $1.299.000 y Esencial $489.000 (≈ 2× el costo puesto, regla de Fossati para llegar a 25–30% neto). **Los ponés vos**, y antes mirá qué cuestan en Mercado Libre.
+Precios de ejemplo en el funnel: Pro $1.299.000 y Esencial $489.000 (≈ 2,1× el costo puesto: criterio del estudio; Fossati habla de vender al doble o más del precio de Amazon y de 25–35% de margen neto como "excelente"). **Los ponés vos**, y antes mirá qué cuestan en Mercado Libre.
 
 ## Ver local
 
@@ -51,7 +51,7 @@ Variantes a crear en Shopify: Pro S/M/L (`VARIANT_ID_PRO_S|M|L`) y Esencial (`VA
 7. **Caja y manual:** la caja del Pro viene del listing (2 botas, controlador, manguera, adaptador, manual, bolsa). El idioma del manual y la caja del Esencial no están confirmados.
 8. **Entrega y garantía:** `delivery_days [10,15]` (Amazon marcó ~10 días), `returns_days`, `warranty` (3 meses es de ejemplo; los 24 meses que menciona Amazon son del fabricante, no tuyos).
 9. **Opiniones:** son de ejemplo (cartel amarillo). No uses las estrellas de Amazon como tuyas.
-10. **Fotos:** son de Amazon y se ve el logo QUINEAR/CINCOM en las botas. Sirven para la maqueta; para vender, fotos y videos propios o con permiso (un alumno de Fossati "perdió todo" por denuncias de marca).
+10. **Fotos:** son de Amazon y se ve el logo QUINEAR/CINCOM en las botas. Sirven para la maqueta; para vender, fotos y videos propios o con permiso (un alumno de Fossati perdió su tienda por denuncias de Adidas al vender réplicas: con productos originales el riesgo es menor, pero los logos de terceros siguen siendo criterio de cuidado del estudio).
 
 ## Riesgos de dropshipping desde Amazon
 

@@ -163,7 +163,7 @@ tailwind.config = { theme: { extend: {
       <div class="bg-card rounded-2xl p-6 border border-line">
         <div class="text-3xl">🏃</div>
         <h3 class="mt-3 text-xl font-bold">Terminás de entrenar y las piernas no dan más</h3>
-        <p class="mt-2 text-mute leading-relaxed">Después del gym, de correr o de pedalear, una sesión de compresión ayuda a aliviar la tensión muscular y a recuperarte más rápido para el próximo día.</p>
+        <p class="mt-2 text-mute leading-relaxed">Después del gym, de correr o de pedalear, una sesión de compresión ayuda a aliviar la sensación de piernas cansadas para que llegues mejor al próximo día.</p>
       </div>
       <div class="bg-card rounded-2xl p-6 border border-line">
         <div class="text-3xl">🧍</div>
@@ -173,7 +173,7 @@ tailwind.config = { theme: { extend: {
       <div class="bg-card rounded-2xl p-6 border border-line">
         <div class="text-3xl">🚗</div>
         <h3 class="mt-3 text-xl font-bold">Horas sentado</h3>
-        <p class="mt-2 text-mute leading-relaxed">Choferes, oficina, viajes largos: la compresión secuencial promueve la circulación y la sensación de piernas livianas.</p>
+        <p class="mt-2 text-mute leading-relaxed">Choferes, oficina, viajes largos: la compresión secuencial te deja una sensación de piernas más livianas al final del día.</p>
       </div>
     </div>
   </div>
@@ -249,7 +249,7 @@ tailwind.config = { theme: { extend: {
       <div class="mt-5 overflow-x-auto scroll-x rounded-2xl border border-line bg-card">
         <table class="w-full min-w-[420px] text-[15px] text-center" id="sizeTable"></table>
       </div>
-      <p class="mt-3 text-[13px] text-mute">La mayoría de las personas de hasta 1,75 m usan el talle S. Si tenés dudas, escribinos antes de comprar.</p>
+      <p class="mt-3 text-[13px] text-mute">Si estás entre dos talles, guiate por tu entrepierna (la altura es orientativa). La mayoría de las personas de hasta 1,75 m usan el talle S. Si tenés dudas, escribinos antes de comprar.</p>
     </div>
     <img src="assets/pro-talles.jpg" alt="Tabla de talles y cómo medir la entrepierna" class="rounded-3xl w-full border border-line" loading="lazy">
   </div>
@@ -352,6 +352,7 @@ tailwind.config = { theme: { extend: {
   <button id="sbBtn" class="btn btn-cta h-12 px-6 text-[15px] shrink-0">Agregar al carrito</button>
 </div>
 
+<a id="wa" href="#" target="_blank" rel="noopener" class="hidden fixed right-3 bottom-24 md:bottom-6 z-[55] btn bg-[#25D366] text-black h-12 px-4 text-sm shadow-lg">Consultanos por WhatsApp</a>
 <div id="toast" class="fixed left-1/2 -translate-x-1/2 bottom-24 md:bottom-8 z-[60] hidden w-[92%] max-w-sm bg-deep text-white text-sm rounded-xl px-4 py-3 shadow-xl"></div>
 <div id="prevTag" class="hidden fixed left-3 z-[55] text-[11px] font-bold bg-[#FFE9A8] text-[#6B4E00] px-2.5 py-1 rounded-full pointer-events-none bottom-24 md:bottom-3">Maqueta · precios de ejemplo</div>
 
@@ -366,12 +367,13 @@ const P = {
   warranty: 'Garantía de 3 meses',     // CONFIRMAR: es tuya, no la del fabricante
   customs_answer: 'El precio final ya incluye el envío y los impuestos. No pagás nada extra al recibirlo.',   // CONFIRMAR: tiene que ser cierto
   pay_answer: 'Podés pagar por transferencia, tarjeta de crédito o débito, o Mercado Pago.',                 // CONFIRMAR con tus medios reales
-  power_answer: 'Viene con adaptador de corriente y te lo enviamos listo para enchufar en Argentina.',       // CONFIRMAR: voltaje (220 V) y ficha. Si no es cierto, cambiar o sacar
+  whatsapp: '',                        // número con código de país, sin + ni espacios (ej: 5491112345678). Vacío = sin botón
+  power_answer: 'Viene con adaptador de corriente. Antes de comprar escribinos y te confirmamos el voltaje y la ficha de tu modelo.',       // CONFIRMAR: voltaje (220 V) y ficha. Si no es cierto, cambiar o sacar
   models: [
     {
-      key: 'pro', name: 'Pro · pierna completa', sub: '4 cámaras, 8 intensidades y sensor de presión. Cubre pie, pantorrilla y muslo', price: 1299000, badge: 'El más elegido',
-      proof: ['4,4', '+1.800 opiniones de compradores en Amazon.com'],
-      lead: 'Compresión de aire secuencial en la pierna completa: 4 cámaras, 3 modos y 8 intensidades de 50 a 120 mmHg. Te ayuda a aliviar la sensación de piernas cansadas después de entrenar o de un día entero de pie.',
+      key: 'pro', name: 'Pro · pierna completa', sub: '4 cámaras, 8 intensidades y sensor de presión. Cubre pie, pantorrilla y muslo', price: 1299000, badge: 'Pierna completa',
+      proof: ['4,4 de 5', 'en +1.800 opiniones de compradores del modelo'],
+      lead: '¿Terminás de entrenar o de pasar el día de pie y las piernas no dan más? Estas botas aprietan con aire del pie al muslo, en orden, durante 30 minutos, y ayudan a aliviar la sensación de piernas cansadas mientras vos descansás.',
       img: 'assets/pro-main.jpg',
       sizes: [
         { key: 's', name: 'S', sub: '1,55 a 1,75 m', variant: 'VARIANT_ID_PRO_S' },
@@ -397,8 +399,8 @@ const P = {
     },
     {
       key: 'esencial', name: 'Esencial · con calor', sub: 'Pie y pantorrilla, con calor suave. Talle único ajustable', price: 489000, badge: 'Más económico',
-      proof: ['4,3', '+4.700 opiniones de compradores en Amazon.com'],
-      lead: 'Compresión de aire con calor suave para pie y pantorrilla: 4 cámaras, 3 modos y 3 intensidades. Ideal si pasás el día de pie y querés algo simple y más accesible.',
+      proof: ['4,3 de 5', 'en +4.700 opiniones de compradores del modelo'],
+      lead: '¿Pasás el día de pie y llegás con las pantorrillas pesadas? Estas botas combinan compresión de aire con calor suave en pie y pantorrilla: una opción simple y más accesible para descansar.',
       img: 'assets/esencial-main.jpg',
       sizes: [ { key: 'u', name: 'Talle único', sub: 'ajustable con 2 extensores', variant: 'VARIANT_ID_ESENCIAL' } ],
       checks: [
@@ -428,7 +430,7 @@ const P = {
   stats: [['4', 'cámaras de aire'], ['8', 'intensidades'], ['30 min', 'por sesión'], ['3', 'talles']],
   addons: [],   // sin extras por ahora: un 2.º producto de Amazon llegaría por separado. Formato: { id, title, note, price, variant, only: ['pro'] }
   announce: ['Equipamiento para tu próximo nivel', 'Envíos a todo el país', 'Pagá en pesos'],
-  guarantees: [ ['Envío', 'a todo el país'], ['Talles', 'S, M y L'], ['Pago', 'seguro'] ],
+  guarantees: [ ['Envío', 'a todo el país'], ['Talles', 'S, M y L'], ['Garantía', '3 meses'] ],   // CONFIRMAR: igualar con `warranty`
   pays: ['Transferencia', 'Visa', 'Mastercard', 'Mercado Pago'],   // CONFIRMAR con tus medios reales
   sizeTable: {
     head: ['Talle', 'Altura', 'Entrepierna', 'Muslo (máx.)'],
@@ -458,6 +460,8 @@ const P = {
     ['¿Hace ruido?', 'La bomba del controlador hace un sonido bajo mientras trabaja. Es normal.'],
     ['¿Quién debería consultar al médico antes de usarlas?', 'Si tenés osteoporosis, problemas circulatorios u otra afección en las piernas, o estás embarazada, consultá primero a tu médico. Si con la intensidad más baja te sigue molestando, dejá de usarlas.'],
     ['¿Funciona con los enchufes de Argentina?', null],
+    ['¿Por qué me piden el DNI o CUIL?', 'Es un producto importado y la aduana exige los datos del destinatario para el envío. Los usamos solo para eso.'],
+    ['¿Cómo hago el seguimiento de mi pedido?', 'Apenas despachamos tu pedido te mandamos el número de seguimiento y la fecha estimada de llegada.'],
     ['¿Cuánto tarda en llegar?', null],
     ['¿Pago algo extra por impuestos o aduana?', null],
     ['¿Cómo pago?', null],
@@ -499,6 +503,7 @@ $('#footLinks').innerHTML = P.footLinks.map(l => `<li><a class="hover:text-white
 $('#vids').innerHTML = P.videos.map(v => `<div class="vcard relative snap-start shrink-0 w-[168px] md:w-[210px] aspect-[9/16] rounded-2xl overflow-hidden bg-deep border border-line"><video src="${v.src}" poster="${v.poster}" class="w-full h-full object-cover" muted loop playsinline preload="none" aria-label="${esc(v.caption)}"></video><span class="absolute inset-x-0 bottom-0 p-3 pt-10 text-white text-[13px] font-semibold" style="background:linear-gradient(transparent,rgba(0,0,0,.75))">${esc(v.caption)}</span></div>`).join('');
 const vio = new IntersectionObserver(es => es.forEach(e => { const v = e.target; if (e.isIntersecting) { v.preload = 'auto'; v.play().catch(() => { }); } else v.pause(); }), { threshold: .5 });
 $$('#vids video').forEach(v => vio.observe(v));
+if (P.whatsapp) { const w = $('#wa'); w.href = 'https://wa.me/' + P.whatsapp + '?text=' + encodeURIComponent('Hola, tengo una consulta sobre las botas de compresión'); w.classList.remove('hidden'); }
 if (P.sample_mode) { $('#vidTag').classList.remove('hidden'); $('#sampleTag').classList.remove('hidden'); $('#prevTag').classList.remove('hidden'); }
 $('#sizeTable').innerHTML = `<thead><tr class="bg-paper">${P.sizeTable.head.map(h => `<th class="p-3 font-bold">${esc(h)}</th>`).join('')}</tr></thead><tbody>` +
   P.sizeTable.rows.map(r => `<tr class="border-t border-line">${r.map((c, i) => `<td class="p-3 ${i === 0 ? 'font-extrabold' : ''}">${esc(c)}</td>`).join('')}</tr>`).join('') + '</tbody>';
@@ -567,7 +572,7 @@ function renderSpecs() {
   $$('#specTabs button').forEach(b => b.onclick = () => { S.specTab = +b.dataset.i; renderSpecs(); });
   $('#specs').innerHTML = m.specs.map(s => `<div class="py-3 flex justify-between gap-4"><dt class="text-mute">${esc(s[0])}</dt><dd class="font-medium text-right">${esc(s[1])}</dd></div>`).join('');
   $('#box').innerHTML = m.box.map(b => `<li class="flex gap-3"><i class="chk"></i><span>${esc(b)}</span></li>`).join('');
-  $('#boxNote').textContent = m.boxNote;
+  $('#boxNote').textContent = P.sample_mode ? m.boxNote : '';
 }
 function update() {
   const m = M(), z = curSize(), n = visibleAddons().filter(a => S.addons.has(a.id)).length;
@@ -578,7 +583,7 @@ function update() {
   $('#subBtn').textContent = z ? `${m.name.split(' · ')[0]}${m.sizes.length > 1 ? `, talle ${z.name}` : ''}${n ? ` + ${n} extra${n > 1 ? 's' : ''}` : ''}. ${P.returns_days} días para cambios.` : `Mirá la tabla de talles si no sabés cuál elegir.`;
   $('#sbSel').textContent = `${m.name.split(' · ')[0]}${z ? ' · ' + z.name : ''}`;
   $('#sbPrice').textContent = money(total());
-  $('#proof').innerHTML = `<span class="text-[#E8A317] tracking-tight">★★★★★</span><span><b>${esc(m.proof[0])}</b> · ${esc(m.proof[1])}</span>`;
+  $('#proof').innerHTML = `<span class="text-[#E8A317]">★</span><span><b>${esc(m.proof[0])}</b> ${esc(m.proof[1])}</span>`;
   $('#perDay').innerHTML = `Equivale a <b class="text-ink">${money(total() / 365)} por día</b> durante un año.`;
   $('#track').innerHTML = [['1', 'Pagás en pesos', 'Confirmamos tu pedido al acreditarse.'], ['2', 'Lo despachamos', 'Te mandamos el seguimiento.'], ['3', 'Llega a tu casa', 'Entre el ' + deliveryRange() + '.']].map(t => `<li><span class="grid place-items-center w-6 h-6 rounded-full bg-leaf text-white text-xs font-extrabold">${t[0]}</span><div class="mt-2 font-bold text-ink">${esc(t[1])}</div><div class="text-mute">${esc(t[2])}</div></li>`).join('');
   $('#shipLine').textContent = `Pedilas hoy y llegan entre el ${deliveryRange()}.`;
