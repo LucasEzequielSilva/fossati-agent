@@ -1,0 +1,106 @@
+TITLE: Como conectar SHOPIFY con MERCADOPAGO ( Paso a paso )
+UPLOAD_DATE: 20260331
+URL: https://www.youtube.com/watch?v=ZZ86PM1EmHI
+---
+Mi gente, en este video les voy a
+enseñar cómo conectar Mercadopago a
+Shopify. Es muy fácil, así que vamos al
+grano. La verdad que conectarlo una vez
+que ya queda no tenés que tocar más nada
+y tiene ahí directamente en
+configuración en Shopify para hacerlo.
+Así que vamos al grano a romperla.
+Primero vamos a agarrar Primero vamos a
+ir al panel de Shopify acá y vamos a
+bajar a la parte de configuración en la
+esquina. Como les decía, cuando ya
+estemos en configuración vamos a ir a
+pagos. En pagos nos vamos a ir a agregar
+forma de pago y en agregar forma de pago
+vamos a poner Mercado Pago. [resoplido]
+Eh, lo buscamos ahí, ahí aparece,
+seleccionamos Mercado Pago Checkout Pro
+se llama, ahí lo agregamos. Tenemos que
+instalarlo en Shopify, es muy rápido, la
+verdad, no sean problema. Por eso, le
+dan instalar dos veces.
+Ahí les va a pedir que gestionen la
+cuenta, le van gestionar cuenta y ahí ya
+pueden comenzar la vinculación con su
+cuerta con su cuenta de mercado libre.
+Ahí cuando ustedes pongan el número de
+verificación ya les queda conectado a
+Mercado Pago el Shopify.
+Recuerden que MercadoPo se gestiona de
+la misma cuenta que Mercadoolibbre. Es
+todo la misma empresa, se gestiona todo
+igual. Acá verificamos nuestro mail al
+que queremos vincular. Vinculamos cuenta
+con el botón azul y listo. Ahí ya va a
+quedar pronto. Nos queda el Mercado Pago
+Checkout Pro conectado en Shopify. Vamos
+a configuración de vuelta para activar
+la aplicación apretando este botón y ahí
+te dice activar abajo. Ahí ya te dice
+las tarjetas que acepta y te dice
+activar abajo a la derecha le das a
+activar y ya te quedó instalado el
+Mercado Pago Checkout Pro. Ahora, hay
+una cosita que tenés que hacer, es eh
+vos cuando ya estéis en el Mercado Pago,
+luego después de hacer esto, tenés que
+ir en configuración, en la sección de
+cuotas, poner que aceptas 12 cuotas. Así
+el cliente en Shopify te puede pagar en
+cuotas. Esto te va a aumentar mucho más
+la tasa de conversión. Acorddate de
+activarlo. Pero cuando pongas que
+aceptas cuotas, pone que querés recibir
+la plata instantáneamente ese día. Hay
+una opción ahí en Mercado Pago, la
+activas y te va a dejar recibir
+instantáneamente. Cuando vos configures
+eso en tu cuenta de Mercado Pago, ya
+para recibir en cuotas instantáneamente,
+listo, en Shopify va a quedar también la
+misma configuración y vas a poder vender
+en cuotas, además de haberlo conectado
+como el tutorial de recién, que si no,
+míralo de vuelta ya vas a poder vender
+en cuota. Con Mercado Pago ya tengo
+estoy por llegar al millón de dólares
+facturado con mi comunidad. Eh, enseño
+método de Mercado Pago hace 2 años, pero
+yo lo hago desde antes, solo que no lo
+enseñaba en redes sociales. El Mercado
+Pago lo lo empecé a usar con Shopify
+hace 8 años, deja mucha plata porque te
+pagan antes. O sea, vos ponés la
+publicidad, la gente va Shopify, te paga
+y con eso vos despachas luego el
+producto. Entonces, podés escalar muy
+rápido, muy rápido. Vos podés estar en
+$100 de venta al día, vendés un producto
+de $100 al día y con Mercado Pago, con
+este método, puedes escalar a $1,000 en
+la misma semana. O sea, que en menos de
+una semana vos pases de $100 de venta a
+$1,000 de venta por día gracias a que
+cobrás previamente con Mercado Pago y
+empezas a escalar más rápido. Si querés
+que yo también te si querés que te
+enseñe cómo vender con Mercado Pago, te
+voy a dejar un curso completo acá de
+Shopify, un curso de dropshipping, que
+es vender sin stock, vender productos
+sin comprar la mercadería, cobrando
+previamente por Shopify a través de
+Mercado Pago. No, no te vas a forrar en
+plata. Tengo un montón de casos de
+éxito, también los puedes ver en mi
+canal. vivo hace muchísimos años este
+negocio. Fundamos este negocio
+prácticamente del dropshipping en
+Latinoamérica y más que nada en
+Argentina, en Uruguay. Así que nada, te
+dejo el curso, te va a encantar.

@@ -1,0 +1,884 @@
+TITLE: Cómo Crear Tienda Online con Tiendanube en Argentina 2026
+UPLOAD_DATE: 20260222
+URL: https://www.youtube.com/watch?v=RI35bHQe74I
+---
+Bueno, si estás acá es por una sola
+cosa, querés hacer plata con una tienda
+en internet, así que no te voy a hacer
+perder el tiempo, no voy a hacer como en
+otros tutoriales que mirás, mirás,
+mirás, nunca encontrás lo que estás
+buscando. Te voy a enseñar cómo hacer la
+mejor tienda de Tienda Nube y no solo
+eso, una tienda que quede optimizada y
+venda de verdad. Porque una cosa es
+hacer la tienda, pero si la gente entra
+en tu tienda, los clientes entran y no
+confían y dicen, "¿Qué es esta
+porquería?" Se te van de la tienda y no
+vas a vender un Ahora, si la
+tienda está espectacular, aunque sea
+simple, ahora vamos a ver cómo hacerla
+de forma simple, pero si está
+espectacular, las ventas te van a
+llegar, eso es así. Hay dos formas de
+tener una Tienda Nube, hay una forma que
+es la que te voy a mostrar ahora, te voy
+a mostrar las dos en realidad, pero la
+primera es cómo la podemos crear en
+línea paso a paso, te va a gustar, y si
+no, para las personas que se quieren
+ahorrar eso y que quieren ir a al a lo
+directo, a las ventas, que es lo que más
+les gusta, también les voy a mostrar
+otra forma para que no tengan que hacer
+nada y ya tengan su tienda pronta, lista
+y prácticamente para vender. Bueno, acá
+estamos en el panel de Tienda Nube, es
+www.tiendanube.com,
+fácil. Una vez que entramos, nos va a
+pedir un correo para registrarnos. Yo te
+recomiendo no usar tu correo personal,
+¿por qué? Porque si vamos, por ejemplo,
+a Microsoft Outlook, que es como
+Hotmail, vamos a decir, viste que acá
+dice Outlook, pero podés poner Hotmail
+si querés el correo, eh básicamente te
+recomiendo hacer una nueva para que
+cuando te lleguen los mensajes de los
+clientes en el en el correo nuevo que
+hiciste, no te estén atomizando en tu
+correo personal, porque se te va a
+mezclar todo con otros mails que tengas,
+con tus contraseñas, un quilombo, te
+recomiendo no hacerlo. Entonces, yo qué
+haría, me creo uno nuevo acá en Outlook
+o en Gmail, como vos quieras, le pongo
+Tienda Prueba en mi caso, ¿no? Por
+ejemplo, Tienda Prueba 1 1 1 1, listo, y
+le doy next. Eh luego le pongo la
+contraseña,
+listo, le das una contraseña ahí que
+uses siempre para no olvidarla, y ponés
+tu fecha de nacimiento,
+pa pa paf, pa pa paf, listo, y tu país,
+siguiente. Esto no es muy importante la
+verdad, es solo para crear el correo.
+Acá le pongo prueba, muy fácil,
+siguiente.
+Acá tenés que verificar que no sos un
+robot, también es muy fácil, no no se
+calienten, mira, apretás este botón, lo
+dejás apretado acá.
+Carga, carga, carga, listo, ahí ya te
+debería verificar que no sos un robot.
+A veces decimos, no no quiero hacer eso,
+me lleva tiempo, no te lleva tiempo y
+haceme caso, me lo vas a agradecer
+porque no se te va a mezclar todo en el
+mail que ya usás para tus otras cosas.
+Configuración, esto saltealo, no es
+necesario hacerlo, acá le das cancelar y
+ya está.
+Y ya tendrías tu correo abierto.
+Entonces, ¿qué luego que vamos a hacer?
+Vamos a copiar el correo, en el caso que
+no te lo acuerdes como yo, porque le
+puse tienda prueba 11111 y no sé cuántos
+unos le puse, entonces esperamos que se
+cree, copiamos el correo directamente
+desde acá de la esquina.
+Mira acá, ahí ya te lo dice, tienda
+prueba, 1 2 3, 6 1 le había puesto.
+Entonces lo pongo acá.
+Acá vas a login en Tienda Nube.
+Acá le das.
+No, perdón.
+No, acá viste donde dice abajo todavía
+no vendes con Tienda Nube, le das en
+crear tienda nueva, porque es una nueva
+que vas a usar. Acá le pones continuar
+con mail y le pones lo que le puse yo en
+mi caso, pero vos ponés el tuyo, tienda
+prueba 111111.
+@hotmail.com
+Y una contraseña, la misma le pondría
+que le puse al correo para no
+confundirme.
+Una vez que ya lo lo pusiste, le decís
+que no lo querés guardar, si querés
+guardarlo para que ya te quede, pero si
+no no. Y acá le tenés que poner un
+nombre a la marca, o sea, a la web esa
+que estás haciendo para vender tu
+negocio online, tenés que ponerle un
+nombre. Imagínate que para este ejemplo
+vamos a hacer una tienda de cocina,
+entonces me voy a chat GPT y le digo.
+Dame cinco nombres para una tienda de
+cocina. Ahí ya me lo va a dar al toque.
+Te doy cinco nombres, sabor y fuego, me
+encantó, voy a usar el primero, sabor y
+fuego, me encantó y encima le pongo el
+emoji este del fueguito, me encantó.
+Lo pegas acá, acá te va a pedir un
+código cuit, lo pegas acá, acá pones un
+número de teléfono.
+En este ejemplo yo pongo uno trucho,
+total es para crear la cuenta, no se
+preocupen. Y le das continuar, ahí ya te
+estaría creando la tienda, super fácil,
+o sea, hoy en día se puede hacer plata
+desde tu casa creando una tienda online
+en dos minutos. Esto te lo puedes omitir
+todo, omitir todo, son preguntas para
+que él sepa cómo hacerte la tienda un
+poco más, qué quieres vender, eso sí
+ponelo acá, yo voy a vender productos
+físicos, esta tienda la estoy haciendo
+para vender productos físicos que se
+pueden tocar en la mano, entonces le
+pongo la primera opción y le pongo ir a
+mi tienda, como ves super fácil hacer
+una tienda, mira, crear tienda, primer
+paso ya realizado. Ahora hay que agregar
+productos, le da a agregar producto y
+por ejemplo en la tienda de cocina vamos
+a poner acá en chat GPT. Dame cinco
+productos de cocina para vender en mi
+tienda, es un ejemplo, ¿no?
+Para hacerla rápida, imagínate, freidora
+de aire de aire compacta, que todo el
+mundo hoy en día tiene una freidora,
+entonces le voy a agregar acá y le pongo
+de nombre, le borro el uno y le digo
+freidora de aire compacta, le voy
+diciendo a chat GPT. Ahora dame dos.
+Eh, tres fotos, tres fotos para la.
+Freidora.
+Y cuando vengo acá a chat GPT también
+tengo que poner una descripción, ahora
+se la voy a pedir a él mientras me hace
+la foto, acá también podría venir a
+Google o a tu proveedor y sacar de ahí
+la foto de la freidora, freidora.
+Agarro acá, por ejemplo, imagínate que
+queremos vender una freidora, agarramos
+cualquier modelo de acá, por ejemplo, no
+sé, es la que vamos a vender, para el
+ejemplo usamos esta puntal. Esperamos
+que cargue la imagen, también vamos a
+chat GPT y como ves ya nos está haciendo
+imágenes, pero vamos a descargar esta,
+por ejemplo. Porque es para demostrar lo
+fácil que es hacerlo, también descargo
+la que me hizo chat GPT.
+La guardo ahí y ahora le digo a chat
+GPT, "Haceme una descripción
+para venderla.
+Que el 30
+% inicial sea
+tocando los puntos
+de dolor del cliente,
+el otro 30%
+con la solución, que sería la freidora,
+y el último 40% detalles técnicos
+y de envío." Listo, ahí ya me lo va a
+hacer. Vengo acá, voy agregando las
+fotos de la freidora esta que descargué
+acá, ya tiene foto, el precio imagínate
+que lo vamos a vender, no sé, 99,000
+pesos argentinos
+y que antes de la promoción que vamos a
+poner, supuesta promoción, valía
+200,000, pero ahora con la promoción te
+queda 99,000.
+Listo, si querés le ponés cuánto te vale
+a vos para saber cuánto te queda de
+ganancia y te lo calcula
+automáticamente, si no querés no lo
+hacés. Acá tenés que poner qué tipo de
+producto es, es un producto físico, no
+es digital, digital sería por ejemplo
+vender un curso de cocina, pero vamos a
+vender un producto físico. Stock
+infinito o limitado, depende, imagínate,
+solo tenés 45 unidades tiene tu
+proveedor, ponés 45 y listo, ahí ya
+tenías el producto, te falta solo la
+descripción para poner acá, pero chat
+GPT ya la hizo, mira acá, ya está pronta
+como le pedimos, quedó impecable.
+Vuelvo acá, la pego.
+Acá si quiero le meto otra de esas fotos
+que habíamos hecho, por ejemplo, agarro
+acá, voy a esta parte de acá, no, ahí
+no, perdón. Voy a
+No, debería dejarme acá.
+Acá.
+Eh, vas a cargar, le das buscar una
+imagen y seleccionas esta por ejemplo,
+que es la que habíamos hecho con chat
+GPT, pero si no la sacas del proveedor o
+la sacas de Google, eso lo ves vos
+porque es superfácil hoy en día. Ahí te
+va a cargar la foto en la descripción,
+ahí le das guardar y ya te queda acá en
+la descripción. Le damos guardar
+producto
+y ya tenemos el primer producto hecho, o
+sea, ya está, ya está, tenemos el primer
+producto hecho. Mirá, le damos en ver
+producto acá, en este botón que ves acá,
+ver producto, y te muestra el ejemplo
+del producto. Mirá qué fácil, ya tenemos
+la tienda empezada, obviamente la vamos
+a mejorar, le vamos a poner más cosas,
+pero mirá, te calcula el descuento, te
+pone acá antes valía 200.000. No, mirá,
+le erramos, pusimos al revés, pusimos
+como que antes valía 99.000, pero ahora
+vale 200.000, eso está mal, es al revés,
+entonces venimos acá. Precio de venta
+ponemos 200.000.
+Precio promocional, que es el que está
+ahora con el descuento, le damos
+guardar.
+Volvemos a la parte en la que estábamos,
+re logueamos y ya se corrigió. Ahora el
+precio es 90.000, pero antes valía
+200.000, perfecto, acá tenés agregar al
+carrito, todo óptimo, Tienda Nube es muy
+fácil de hacer. Ahora le tenemos que dar
+una estética a esta web, porque si no no
+va a vender, es una web medio pelo.
+Entonces venimos acá de vuelta y vamos a
+la parte de Tienda Online, acá abajo,
+editar diseño actual.
+Antes de editar el diseño actual, si te
+querés ahorrar entrar acá, por ejemplo,
+ir más rápido, vas a subir logo acá, en
+este botón, vas donde dijimos Tienda
+Online y subir logo, y acá le das cargar
+y como aún no tenemos logo hecho, le voy
+a decir,
+pa pa paf, agarro el nombre que había
+elegido, que era Sabor y Fuego,
+haceme un logo para este nombre de la
+tienda.
+Listo, ahí ya te va a hacer el logo Chat
+GPT. Si querés ver más opciones y no
+esperar, por ejemplo,
+agarrás acá, copiás, abrís Gemini,
+que es otra IA como Chat GPT, pero de
+Google,
+y le decís lo mismo, [carraspeo]
+Sabor y Fuego, haceme un logo para el
+nombre de esta tienda de cocina, para
+que sepa de qué estábamos hablando,
+crear imagen,
+y ahí ya te va haciendo una mientras
+Chat GPT te va haciendo la otra y elegís
+el logo que te gusta más. Mirá cómo
+quedó, en En minutos, impecable quedó,
+impecable. Lo vamos a usar así.
+Le doy descargar.
+Vengo acá, subir logo, selecciono logo,
+vengo acá, favicon. ¿Qué es favicon? Acá
+arriba ya subí el logo, ¿no? Pero acá
+abajo dice favicon. ¿Qué es eso? Es lo
+que aparece chiquitito acá arriba,
+¿viste que a Tienda Nube, por ejemplo,
+le aparece una nubecita acá arriba?
+Bueno, lo mismo, pero a usted le va a
+aparecer tu logo cuando la gente entre a
+tu página y ahí arriba le va a aparecer
+tu logo. Lo pongo también y le doy
+guardar.
+Ahora ya la página, así de rápido, ya
+tiene esa estética. Pero no solo eso,
+ahora le vamos a dar una estética que
+combine con el logo, porque el logo
+tiene un fondo negro y la página era
+blanca, no va a quedar muy fachero, pero
+lo vamos a solucionar. Acá puedes elegir
+los diseños.
+Vas a ver que ya vienen bastantes
+diseños predeterminados, por ejemplo,
+pero lo que vamos a hacer es, para que
+combine con el logo, ma, ya quedó re
+loco ahí moviéndose, vamos a colores,
+color de fondo y seleccionamos uno que
+combine con el logo. No se preocupen que
+esto se esté moviendo así, ahora se se
+arreglará. A ver, ahí computadora, así
+se vería en computadora y así se vería
+en celular. Como ven, este negro no
+combina con el color de fondo del logo
+que nos hizo ChatGPT. Entonces le
+decimos,
+no, le podría decir a ChatGPT que me
+haga el fondo en color negro, entonces
+va, en vez de gris, entonces va a
+combinar, pero si no, para hacerla más
+fácil, venís acá donde elegiste el color
+y buscás un color parecido a ese que
+tiene de fondo el logo, mirá.
+Por ejemplo, acá, elegir color, quedó
+muy claro, le doy de vuelta, más oscuro,
+elegir color, quedó muy oscuro,
+le doy de vuelta,
+ahí quedó bastante bien,
+le doy un poquito más oscurito, por acá.
+Mmm, no me está quedando muy bueno.
+¿Cómo puedo hacerlo rápido? Mirá,
+vamos a hacer lo que te había dicho
+antes.
+Dame el fondo del logo en negro.
+Y está, ahí ya te lo va haciendo en
+automático, volvemos acá, volvemos a
+poner en negro fuerte, nos va a quedar
+el fondo así bien negro fuerte.
+Cargando, acá.
+Ahí. Elegir color, quedó el fondo bien
+negro fuerte, volvemos a chat GPT, ya lo
+está haciendo, vamos a ver Gemini qué
+opción de logo nos había dado. No está
+mal, no está mal, pero me voy a quedar
+con el que me hizo chat GPT. Mientras,
+ahí ya lo descargó, es un toque, todo
+esto es un toque. Lo voy descargando,
+vuelvo a la web,
+publico los cambios de que le puse este
+fondo negro, pero con la diferencia que
+ahora cierro acá y en esta parte del
+logo sustituyo este logo por el que
+tiene fondo negro y le doy guardar.
+Ahora cuando abra la web, el fondo del
+logo va a combinar con el fondo de la
+web y va a quedar perfecto. Vamos a a
+ver cómo quedó, eh venimos, por ejemplo,
+acá en
+venimos acá en eh eh no, perdón, en
+editar logo no, venimos en editar diseño
+actual, acá,
+y ahí vamos a computadora y ya podemos
+ver cómo quedó. Mirad, ¿viste que quedó
+qué raro? ¿Vieron que no se actualizó?
+Quedó igual sin el fondo negro.
+Volvamos atrás, que capaz que aún no se
+había guardado. Vamos a la parte de
+logo, elegir logo, no ah, no le había
+dado guardar, me parece. Ahí y le doy
+guardar.
+Ahora vamos a esperar, hay que esperar,
+porque a veces no queda sino no cometan
+ese error. Listo. Vamos a la parte de de
+ver cómo quedó en diseño actual.
+Está, ahora sí, negro, no, ¿vieron que
+no que no tiene fondo negro del todo?
+Vamos a hacer esto, vamos a decirle,
+"Dame el fondo en el negro más oscuro
+que me puedas
+dar." Para que quede perfecto, para que
+la estética sea de otro nivel. Bueno,
+otras cosas que tenemos que ir agregando
+acá son fotos, ¿no? Fotos de cocina,
+porque si no no no es una tienda de
+cocina.
+Eh familias felices cocinando, ponemos
+en Google mientras se va haciendo el
+logo
+agarramos no sé
+una imagen que nos gusta esta tan
+felices me gusta la voy a guardar
+tenemos la primera eh esta me encantó
+también no esta tiene marca de agua esta
+tiene marca de agua y así vamos buscando
+es fácil la verdad si no le decía a chat
+GPT que te las haga pero
+esta no tiene marca de agua
+tiene marca de agua
+esta
+esta no tiene marca no esta no porque
+son vamos a poner familias felices
+cocinando argentinos para que si vas a
+vender en Argentina aparezcan argentinos
+acá vamos a guardar esta
+listo y esta tiene marca de agua
+esta esta no son son asiáticos no tiene
+nada argentino
+esta está buena también listo ya tenemos
+varias fotos
+ahora nos vamos a tienda nube de vuelta
+cargamos una foto acá ponemos la que más
+nos guste a mí me gustó esta por ejemplo
+no acá voy a cambiar esta en el en la
+primera
+y voy a seleccionar
+esta
+luego
+voy a agarrar acá
+vamos a elegir otra vamos a poner esa
+bien acá vamos a elegir otra imagen más
+y vamos a poner esta
+no porque tiene el logo como te digo que
+no es el fondo negro negro volvemos acá
+descargamos este fondo negro negro
+volvemos a tienda nube cargamos acá
+y la del fondo más oscuro que sería esta
+si no me equivoco
+no
+a ver tengo tres que descargué este
+capaz es el fondo más oscuro como que no
+me termina chat GPT dar uno oscuro
+oscuro me lo da como un poco gris no
+a ver vamos a cargarlo de nuevo elimino
+agregar
+sí no me lo termina de dar oscuro oscuro
+pero igual queda impecable ahí ni ni
+cuenta te das ahora lo arreglamos igual
+le le publicar cambios ya tenemos la la
+tienda bastante linda. Ahora le voy a
+decir a chat GPT, haceme una descripción
+para el inicio de la tienda. Ahí ya me
+va haciendo la descripción para el
+inicio de la tienda.
+Imagínate que esta foto, no sé, no te
+gustó.
+Mira, si quieres ver cómo queda en
+celular, quedaría algo así. Ahora
+arreglamos lo del color acá en el logo,
+que vieron que el fondo no queda
+perfecto todavía, ahora arreglamos. Pero
+imagínate esta foto, te gustó o no te
+gustó, depende de vos.
+Imagínate que no te gustó, entonces la
+cambiamos, eliminamos acá, aceptar y
+seleccionamos otra.
+Esta, más argentina, así, listo. Y ahora
+vos me vas a decir, Luis, pero están las
+letras en un color que no se ve. Bueno,
+volvemos a la parte de cómo se ve en
+computadora, cerramos acá, seleccionamos
+lo que queremos cambiar, eh, colores de
+la marca, color de texto y le ponemos
+blanco, ahí ya queda mejor, publicar
+cambios.
+Y ahora lo que falta es el logo, que
+como sabemos no está quedando como
+queremos. Entonces, ¿qué vamos a hacer?
+Volvemos acá, colores de marca, color de
+fondo y vamos a poner un color que sea
+más como el que tiene ese fondo del
+logo, yo creo que es más por acá.
+Le voy a elegir color, ahí, ¿vieron? Era
+un poco como marrón, ahora quedó
+perfecto, ya acá no se nota, me encantó.
+Luego,
+le damos guardar, siempre guarden porque
+si algo, ¿viste? Se no queda guardado,
+tienen que volver todo para atrás. Y
+vienen acá, a la en logo vienen a donde
+está el tamaño del logo, porque está muy
+chico todavía y le voy a poner grande.
+Ahí se va a agrandar el logo.
+Le doy publicar cambios, puede demorar a
+veces la actualización, ahí la se
+actualizó, como ven quedó más grande y
+bueno, la tienda ya está quedando linda,
+está agarrando color. Acá podemos
+agregar más secciones, por ejemplo, acá
+es para agregar un video, pero podemos
+poner foto también.
+Eh, otra foto que hayamos descargado que
+esté buena para eh, mira, ponemos la de
+la freidora.
+No, no, lo que está quedando esta tienda
+hermosa en dos minutos es una locura.
+Porque eso es lo importante también, que
+esté linda la tienda. Si ustedes tienen
+Instagram, lo ponen acá y
+automáticamente van a aparecer las fotos
+del Instagram. Si no, lo pueden sacar
+también esto, porque capaz que ustedes
+no quieren que aparezca la parte del
+Instagram.
+Bueno, acá pusimos la foto, publicar
+cambios, ya la va a poner ahí.
+Y vamos a Chat GPT que nos estaba
+haciendo la descrip- la descripción para
+el inicio de la tienda, que es muy
+importante. Bienvenido a Sabor y Fuego,
+nacimos para transformar comida simple
+en momentos inolvidables para que
+cocinar sea más fácil, más rápido, bla
+bla bla. Lo copio
+y voy de vuelta a Tienda Nube. Ahora
+vemos por qué acá no quedó la imagen.
+Ah, porque es para video solamente, si
+no no te lo va a poner. Ahora vemos eso.
+Ve- venimos acá arriba a la parte de la
+descripción, que es esta, y cambiamos lo
+que dice. Mirá, ahí, ¡pam! Y vos me vas
+a decir, "No, pero y lo de abajo?" Lo de
+abajo también se puede cambiar. Agarrás
+acá, ve- venís a Sabor y Fuego,
+copiás esto, lo pegás acá,
+borrás la segunda parte,
+así, pa pa paf.
+Así.
+Y ahí te queda. Bienvenido a Sabor y
+Fuego y acá te queda toda la explicación
+de qué es Sabor y Fuego. Y ahí le das
+Publicar cambios de vuelta. Acá siempre
+pueden ir viendo que les quede bien en
+celular, ¿no? Lo ven en celular y lo ven
+en computadora y lo van ajustando. Está
+quedando la web en 2 minutos, mirá el
+logo, todo, quedó impecable. Bueno, como
+ven acá abajo tenemos que poner un
+video, como querían. Si no, si es coso,
+si es solo
+una imagen, no te deja. Entonces, ¿qué
+vamos a hacer? Vamos a ir, por ejemplo,
+¿no? A eh podemos venir a a Grok, que no
+sé si la conocen, es una inteligencia
+artificial gratuita también de Elon
+Musk.
+Ponés grok.com
+y agarramos
+la eh subimos la imagen que queremos
+animar. Imagínate que queremos animar,
+no sé, puede ser el logo, puede ser la
+freidora, puede ser la familia feliz.
+Vamos a hacer con la familia feliz, por
+ejemplo, ¿no? Y le das a hacer un video.
+Ahí automáticamente te va a hacer un
+video rápidamente. Esto también se puede
+usar luego para hacer los videos del
+producto, para vender el producto,
+etcétera. Imagínate, podés hacer no solo
+para esto, sino para vender el producto
+luego, podés hacer un video épico solo
+con esto.
+Luego vamos acá a la web y vamos a
+seguirle arreglando unos detalles. Por
+ejemplo, la parte de categorías podemos
+sacarla destildando acá, ya no lo
+tenemos que tener más.
+Y tendríamos que ir arreglando Publiquen
+siempre los cambios por las dudas, ¿no?
+Que se cierre o algo, siempre estén
+atentos a eso.
+Eh la parte de Instagram, si tenés
+Instagram, como te digo, lo podés
+conectar, no tenés problema. Y acá hay
+que agregar un video que es donde vamos
+a agregar el de Gramajo que está
+cargando. Después el 50% que ya cargó el
+50% empieza a cargar superrápido. Como
+ves acá, ya te dio un resultado, quedó
+buenísimo, lo lo descargamos.
+Le das acá a la flechita hacia abajo y
+ahí lo podés descargar. Y es gratuito, o
+sea, la IA te hizo eso en unos minutos
+gratuito. Imaginen el nivel en el que
+estamos. Y lo agregás acá. O lo otro que
+podés hacer también, que me gusta más
+todavía porque queda mucho más
+profesional, es poner un video de
+YouTube acá. Y no tiene que ser de tu
+canal de YouTube, podés poner de
+cualquier canal. Por ejemplo, nos vamos
+a YouTube y ponemos recetas, eh no sé,
+de comida argentina, mirá.
+Recetas de comida argentina, buscamos un
+video que digamos, no, este queda
+buenísimo para esto, por ejemplo, este.
+Lo copiamos, copiamos el link, nos
+volvemos a Tienda Nube y lo pegamos acá
+en link de YouTube y listo. Le damos
+publicar cambios y eso va a hacer que
+cuando la gente entre a tu web y baje,
+va a ver el video épico. Mirá cómo quedó
+eso. No, no, no, ya la web se está
+convirtiendo en una locura. Quedó con
+Gramajo, recetas de Gramajo, moviéndose
+el video de YouTube, una locura, como te
+digo. Hoy en día, si querés tener una
+tienda profesional, es muy fácil.
+Publicás los cambios para que no te
+falte nada. Y si querés podés ir a ver
+cómo se ve en la tienda, cómo quedó ya
+pronta la tienda. Venís acá en ver
+tienda online, bajás, bueno, mirá,
+tenemos esta imagen que no tiene mucha
+calidad, pero está, ahora lo arreglamos
+eso. Bajás acá y acá quedó el video de
+YouTube que pusimos el link. Una locura
+y no se va a enojar nadie, ningún dueño
+del canal se va a enojar porque vos
+pegues el link ahí de receta, al revés.
+Le estás haciendo promoción gratis y la
+página transmite mucha más confianza,
+queda superépica. Acá como ves tenemos
+el producto que cargamos, la freidora
+con la descripción que le pusimos.
+Pueden comprar varias unidades, una o
+varias, el precio comparación y la
+descripción con emoji, foto, todo
+hermoso como lo habíamos puesto. La
+verdad, a mí me encanta cómo quedó y lo
+rápido que se hizo. Eh, me vuela la
+cabeza, la verdad, este resultado. Yo
+creo que yo compraría la freidora ahí.
+Compré una freidora hace poco y la
+hubiera comprado perfectamente ahí.
+Tenemos que cambiar esa imagen, la que
+tiene poca calidad. Venimos acá, como
+todas tienen marca de agua, tenemos que
+elegir una que no tenga marca de agua,
+porque si no va a quedar muy trucho.
+Nunca pongas una imagen que tenga marca
+de agua. Si no andás Grok, mirá, acá en
+Grok, le das en, mirá, en esta parte que
+podés hablar con él como si fuera chat
+GPT y le decís, haceme una familia
+comiendo feliz. Y él mismo te hace las
+imágenes, para que no seas tenés que
+copiar a otro. Ponés las imágenes que te
+da él. Cambiá acá el tamaño de imagen
+para que sea en horizontal y le volvés a
+pedir lo mismo. Tenés que escribírselo
+de vuelta porque yo las había hecho
+recién con el otro formato, el tamaño
+así y yo quiero ahora así. Ahí le le
+ponés la misma frase y cuando le des en
+enviar te da lo mismo, incluso te da
+algunos videos por si precisás, ya te lo
+da directamente, pero si no, descargás
+las fotos que más te gusten de estas y
+ponemos estas que están en buena
+calidad, la que había hoy que habíamos
+descargado de internet no era buena
+calidad. Vamos a editar diseño actual.
+Volvemos a la parte donde está el diseño
+este que queremos cambiar que se pixeleó
+porque la calidad no era muy buena,
+entonces cuando lo ves en computadora,
+en celular no se nota la mala calidad,
+pero en computadora la verdad que sí se
+nota y entonces hay que cambiarlo, nadie
+te va a comprar en una página que queda
+las imágenes con esta calidad, o sea, lo
+más trucho del mundo es ver una imagen
+que tiene así toda pixelada. Entonces,
+¿qué hacemos? Agarramos y ponemos las
+que nos dio Grock y es más, ni siquiera
+tienes que poner una sola, puedes poner
+varias, mira esto.
+Venís acá, vas a la parte de carrusel de
+imágenes, borras la que tenías,
+elegís la que acabamos de descargar de
+Grock, que está en
+¡ahora sí! Y encima gratuita, hecha por
+Grock y que nadie más la tiene, la
+hiciste vos, única. Pero elijo otra, la
+descargo también, por ejemplo, esta y
+ahí es lo que te digo que le puedes
+poner varias, que se vaya pasando de
+foto, queda más profesional la tienda
+todavía. Publicamos los cambios para que
+no se pierda nada y ahora la página no
+solo tiene imágenes únicas nuestras que
+nadie más tiene, sino que están en buena
+calidad, tiene los productos cargados,
+la descripción, el logo, es una página
+totalmente profesional. La verdad que no
+vas a encontrar una página mejor que
+esta en ningún lado, ya te lo digo. Eh
+por más que te la haga el mismísimo, no
+sé,
+no sé, eh el no sé quién te pueda hacer
+la página, pero no va a quedar más linda
+que lo que acabamos de hacer, bien
+simple. Mira,
+el producto, agregar al carrito, tenés
+todo, no no no, es una locura cómo
+quedó, esto es quedó hermoso. La verdad
+que quedó hermoso.
+Ahora, lo que faltaría acá agregar es
+dos aplicaciones, una para acá abajo
+poner comentarios de clientes que digan,
+"Uh, yo compré la freidora, está muy
+buena, me encantó." Eso tenemos que
+instalarlo también, esa aplicación
+y si vos no tenés comentarios porque aún
+no has vendido freidoras, puedes sacar
+comentarios de otra página que ya haya
+vendido. Y acá, en esta parte, arriba,
+al lado de lo de agregar al carrito, ahí
+tenés que poner un timer. ¿Qué es un
+timer? Un cronómetro como que se agota
+el tiempo de promoción. Eso es
+superimportante. Si vos querés que la
+gente te compre más, tenés que meterle
+urgencia para que te compre más. Y si
+vos le instalás arriba un timer, una
+aplicación que dice, "Quedan
+2 horas para que se agote la promoción",
+la gente te va a comprar mucho más. Pero
+antes de instalar las aplicaciones, te
+voy a enseñar algo que es
+superimportante que lo hagas en tu
+tienda, si no, eh imposible que funcione
+de tu tienda, que es activar. Para que
+se activen las ventas, tenés que pagar
+el plan de Pago Nube. Ahora, si no
+querés pagar el plan porque aún no
+podés, tenés una versión gratuita
+también. Con la versión gratuita podés
+empezar a vender, no te preocupes. Pero
+si querés pagar el plan, si ya querés
+salir de eso, si querés tener otros
+beneficios, como por ejemplo, cobrar con
+Mercado Pago, que si no pagas el plan no
+podés usar Mercado Pago, solo podés usar
+Pago Nube. Si querés hacer eso, ahí sí
+vas a tener que pagar el plan. Vamos a
+en la esquina acá arriba donde dice el
+nombre de nuestra tienda, le damos clic
+ahí, Planes y Pagos, y ahí vas a tener
+los diferentes pagos. Eh estamos en la
+gratuita en este momento, que es el que
+te pone por de fábrica, pero podés pasar
+de gratuito al de 24,000, que es el
+esencial, que te ya te deja para cobrar
+con Mercado Pago, te deja hacer de todo.
+Más que ese sí, seguro que no precisás.
+Ya con ese podés empezar. Incluso, si
+vos querés un descuento porque te parece
+muy caro 25,000, yo te dejo un link acá
+abajo de Tienda Nube que si te registrás
+con ese código en Tienda Nube, vas a
+tener 25% de descuento para que ni
+siquiera sea eso lo que tengas que
+pagar.
+Más fácil tener tu negocio hoy,
+imposible. Así que ya sabés, o usás el
+plan gratuito para empezar y no vas a
+poder cobrar por Mercado Pago, vas a
+tener que cobrar por Pago Nube, que
+también funciona, o usás el plan de con
+el descuento de 25,000 más el 25% de
+descuento, estás gozado. Luego, para
+configurar los pagos, vas a Pago Nube
+acá y ahí tenés automáticamente para
+configurar los pagos con Pago Nube, que
+es eh directamente la pasarela de pagos
+de tienda nube. Si no, si querés por
+ejemplo, no sé, imagínate que querés
+usar mercado pago, no querés usar pago
+nube, vas a la parte de configuración y
+seleccionas acá donde dice medios de
+pago, que es la primera de todas que te
+aparece, y ahí tenés pago nube, que es
+la que te mostré recién, si no mercado
+pago, que es mmm más fácil, la usa todo
+el mundo mercado pago, es super fácil, y
+si no tenés muchas más también que vos
+elegís la que quieras, hasta PayPal
+tenés, imagínate. Pero yo elegiría o
+mercado pago, que es fácil de
+configurar, o pago nube, la que vos
+quieras. Le das en activar ahí o en
+configuración, depende cuál de las dos
+elijas, y ahí ya en dos minutitos
+poniéndole tus datos personales, ya
+podés vender, ya podés cobrar, ya cuando
+la gente entre en tu tienda va a poder
+ir y pasar la tarjeta y dejarte la
+plata. Si no configuras esto, no vas a
+poder cobrar, por más que la tienda te
+quede super estética, no le vas a poder
+vender a nadie. Una vez que salgamos de
+eso, vamos a la parte de aplicaciones,
+que es lo que te decía recién, y ahí en
+aplicaciones podés ir a la parte de
+tienda de aplicaciones, donde hay muchas
+más que las que te muestra por defecto,
+y vas a encontrar dos que son las que
+más uso, las que más plata me hacen. La
+primera es Nubi, esta que está acá, que
+se llama Nubi, ¿por qué? Porque es la
+que te permite poner el timer, eso que
+te decía para que el tiempo corra, para
+que el tiempo se agote. Usá Nubi para
+eso, ponés promociones que te dicen,
+"Ah, quedan 3 horas y se agota la
+promoción." Entonces la gente te compra
+mucho más. Pero la segunda que tenés que
+poner sí o sí para vender es la de los
+comentarios de los clientes, para que te
+digan, "El producto es bueno, es malo,
+me llegó rápido", etcétera. Esa, la que
+más uso yo, es Trusty. Trusty es una
+aplicación que te deja poner los
+comentarios, es super fácil, la buscás
+acá en el buscador, la instalás y
+empezás a poner comentarios. Como te
+digo, si vos aún no tenés comentarios en
+tu tienda porque no has vendido, ponés
+comentarios del producto de otra tienda,
+los copiás y los ponés en tu tienda, no
+pasa nada, porque al final es el mismo
+producto que vos estás vendiendo. Ponés
+Trust en el buscador y ya te aparece
+acá. Esta esta que te digo es la que te
+deja poner todos los comentarios abajo y
+te juro que si le instalás esto, la
+tienda va a vender un por cinco que si
+no lo tuviera. No no podés saltearte
+esta parte. Y una vez que tenemos todo
+eso pronto, ya la tienda quedó una
+locura, o sea, quedó hermosa, optimizada
+con el plan y con Mercado Pago o Pago
+Nube para cobrar. Quedó linda, con
+productos cargados y podés cobrar por
+Pago Nube. ¿Qué más querés? Le instalás
+esas dos aplicaciones que te dije y
+encima vendés mucho más. Pero el dominio
+que te da la tienda, como ves acá
+arriba, este te lo dio Tienda Nube
+automático, no es muy lindo, porque se
+llama tienda tienda de tienda prueba 1
+1, no es muy lindo. Sirve para vender y
+vende, pero lo podés cambiar. Vas a
+dominios acá en configuración y ahí
+podés poner el que vos quieras, ¿ah? Le
+das acá en el botón azul en la esquina
+llamado agregar y ahí agregás el que vos
+quieras. Si ya tenés uno, no sé,
+tenés uno que es
+www.lacocinademiabuela.com, se lo ponés.
+Y si no, directamente podés comprar el
+que vos quieras acá. Ahí sí.
+Ya con esto es la frutillita de la
+torta. Ya con esto vendés seguro. Todos
+estos pasos, si te mirás este video de
+nuevo y hacés todos los pasos bien, la
+la tienda va a ser de las mejores de
+internet y vas a vender un montón, ya te
+lo garantizo. Pero si te querés ahorrar
+todos estos pasos y no lo querés hacer
+vos, andá al link acá abajo para comprar
+tu tienda con nosotros, que mis
+diseñadores web te van a hacer la mejor
+del mercado para tu nicho. Va a quedar
+espectacular, ya con los productos
+cargados, te vas a ahorrar todo esto y
+te enfocás directamente en empezar a
+vender. Mientras otros pierden tiempo,
+vos ya estás vendiendo. Te dejo el link
+abajo.

@@ -1,0 +1,697 @@
+TITLE: Cómo hacer una tienda de SHOPIFY y agregar productos GANADORES ( 2026 )
+UPLOAD_DATE: 20251230
+URL: https://www.youtube.com/watch?v=FlJ1hlITN_Q
+---
+ir de ahí hay dos formas de tener una
+tienda online. La primera, que es la que
+yo recomiendo, es comprarla ya hecha.
+¿Por qué? Porque te ahorras este tiempo.
+Es como cuando yo puse mis primeros
+locales de celulares en el pasado. Yo no
+era que hacía toda la mano de obra, las
+remodelaciones, los agujeros con el
+taladro, todo, no. Algunas cosas las
+hacía más que nada en los primeros
+locales, pero luego que iba mejorando
+delegaba todo lo posible. Si vos te
+querés comprar una tienda online, hay
+tiendas de $100, tiendas de $200, te
+podés comprar una con unos pesos y luego
+con dos tres pedidos ya recuperaste la
+plata de la inversión. Imagínate todo lo
+que yo tenía que vender en un local de
+celulares para recuperar la plata del
+local, de los impuestos, de la empresa
+que tenía que abrir, de los empleados,
+de todo. Acá vos lo abrís desde tu casa,
+pagas unos dólares y tenés tu propio
+negocio, que te puede dejar incluso
+mucha más plata que los negocios de
+celulares. Incluso yo los dejé para
+pasarme a esto. Si vos tenés una buena
+tienda online, llegar a la meta de
+20,000 a $30,000 por mes de ganancia con
+disciplina y esta estrategia lo vas a
+hacer. Si querés que te la hagamos
+nosotros la tienda online, anda acá
+abajo que está el link para comprarla.
+Obvio que las nuestras están bien
+hechas, no lo digo porque la hagamos
+nosotros. Anda acá abajo corriendo a
+comprarla, te ahorrás ese paso y ya
+empezas a hacer plata. Si no, si no
+puedes pagar una tienda online, aunque
+creo que todo el mundo puede pagar una,
+vamos al módulo de cómo hacer una, una
+simple, pero que funcione. Yo te voy a
+enseñar ahora. Vamos con todo. Bueno, en
+esta parte del módulo vamos a ir a lo
+que tanto les gusta, que es como hacer
+una tienda. Eh, vamos a hacerla de la
+forma más fácil posible porque no les
+quiero complicar. No sé si ustedes son
+iniciantes o no, algunos estarán
+empezando, otros estarán hace más
+tiempo, pero bueno, la idea es hacer
+algo que funcione, que sea que transmita
+confianza, que sea minimalista, quiere
+decir simple, o sea, que tenga pocos
+colores, pocos elementos. Ahora van a
+ver como al principio parece la tienda
+horrible, parece que no tiene futuro.
+Con cinco o seis detalles que le
+arreglemos va a quedar super profesional
+y va a dar mucha confianza al cliente,
+entonces te van a caer más pedidos.
+Bueno, vamos a ir a shopify.com.
+Como saben, tiene la versión gratuita de
+por 3 meses.
+Mi tienda de acá, pum. Acá le das la
+dirección.
+Yo hice un mail, lo hice con Outlock, no
+sé si conocen Outlock, es como Gmail, lo
+hice ahí y le puse tienda prueba 1925
+Outlock. Es lo mismo que Gmail. pueden
+hacer cualquier correo o un correo de
+ustedes. Acá me pide la contraseña,
+le doy que no la quiero guardar
+y acá me dice si quiero pagar el plan de
+como les decía, pero se puede pagar
+después, así que le dan en omitir acá
+abajo.
+Acá también omitir en la parte de acá
+abajo.
+Listo, ahí ya tienen la tienda hecha
+básicamente. La verdad solo con eso ya
+les hizo la tienda. Ahora vienen acá a
+tienda online
+para modificarla, ¿no? Para darle esa
+apariencia. Pueden elegir un tema como
+los que ven acá, por ejemplo, esto te
+está dando algunos temas, temáticas para
+la tienda, que si se adapta a lo que vos
+querés vender tiene sentido, pero yo la
+voy a hacer desde cero con el tema que
+trae, ¿no? Le voy a dar editar tema acá.
+Como ves, ahí está horrible, no trae
+nada. Vamos a hacer en este ejemplo una
+tienda de cocina. Esperá que me tomo un
+poquito de cafecito.
+Vamos a hacer una tienda de cocina.
+porque me gusta las tiendas de cocina.
+¿Qué es de cocina? No es de comida, es
+una tienda de productos para cocinar.
+Entonces, yo estuve buscando ya algunas
+imágenes en Google, pongo así productos
+de cocina, por ejemplo, y ustedes van
+buscando acá, ¿no?, en imágenes,
+imágenes que ustedes piensan que
+quedarían buenas para la web. Yo ya
+guardé imágenes, ahora no me voy a poner
+a buscar, pero hay muchas. Y si no, van,
+por ejemplo, a Gémini y yo estuve
+diciéndole que me haga imágenes acá para
+la tienda web, que me haga de Navidad,
+que me haga otras que no tengan que ver
+con Navidad. Acá me hizo estas también.
+Luego fui a este es Gémini, ¿no?, que es
+como una inteligencia artificial para
+hacer imágenes y para texto y todo que
+te hace Google que es gratuita. Puedes
+pagar también, tienes la versión de
+pago, pero está gratuita. Y luego
+tenemos Chat GPT. Chat GPT es más famoso
+de momento y también estuve haciendo
+imágenes para mi tienda. Acá me dio
+cualquier cosa, me dio un gato, no sé
+para qué quiere un gato una tienda de
+cocina, pero a veces la todavía no es
+tan perfecta, pero me dio imágenes que
+me pueden servir. Así que ahora si yo
+quiero, por ejemplo, darle vida a esta
+tienda, que no sea una porquería, porque
+la verdad que si vos la ves así no
+comprás,
+pero les voy a mostrar lo fácil que es
+hacer que una tienda se vea profesional.
+Así que vamos a, por ejemplo, venimos
+acá, apretamos en la imagen que va acá,
+le damos acá en imagen seleccionar.
+subir imagen y elegimos una de las que
+habíamos hecho. Como viene Navidad, voy
+a poner una de la familia, todos
+reunidos, cocinando para transmitir lo
+que quiero transmitir con mi tienda.
+Acá voy a poner una frase que me gusta.
+Cocinamos junto a tu familia con amor y
+paz. Se me acaba de ocurrir. Queda
+bueno.
+Luego acá van a ir los productos, así
+que no te preocupes porque ya cuando vos
+cargues los productos en tu tienda de
+Shopify se te van a poner automático
+acá. Vos no tenés que tocar nada, eso no
+te preocupas. Pero como ves, todavía
+esto está muy pobre. Vamos a mejorarlo
+más. Tenemos que agregar secciones
+nuevas. ¿Ves? Acá tenés agregar sección,
+agregar sección, agregar sección. Vamos
+a agregar una. A ver qué le podría ir
+bien. El logo en grande no me gusta.
+Esto no me gusta. No me gusta. Esto es
+como para poner novedades, como si fuera
+algo noticias de productos de cocina o
+de tu nicho de cocina, recetas. Bueno,
+no es mala. Igual podríamos poner
+novedades y poner productos de cocina o
+recetas más que nada, pero no lo voy a
+poner. Vamos a seguir buscando. Cada
+tienda tiene lo que estaría bueno, ¿no?
+Lo que le queda bien para darle esa
+estética. un formulario de contacto.
+Esto ya tenemos uno abajo automático,
+aunque este es más completo, pero no lo
+voy a poner, no es lo que busco. Acá son
+carruseles de productos, pero no voy a
+poner. Va de blog en realidad, pero es
+para poner, como les digo, recetas,
+etcétera. Pero ahora yo no quiero pasar
+trabajo con recetas, quiero hacer una
+tienda básica que venda acá. A ver, este
+sí me gusta. Comparación de imágenes.
+Está bueno, pero vamos a ir buscando
+este. También me gusta. que es tipo una
+imagen y un texto. Me gusta. Vamos a
+probarlo a ver
+cómo se vería, ¿no? Así. Acá seleccionas
+una imagen.
+Imagínate, pongo esto.
+Demora un poquito en cargar, pero
+depende tu internet. Acá le doy listo.
+Ahí puse este producto de cocina y acá
+voy a poner en el título
+cocina inteligente. Cocina cocina
+inteligente. Sií, le voy a dejar así. Y
+acá abajo voy a poner
+cocinar. No tiene que
+llevar horas y horas de
+esfuerzo
+para tener un buen sabor.
+Tu familia puede disfrutar
+de comidas caseras,
+incluso si usas
+la tecnología
+en el proceso.
+Te
+eh esto, mira, voy a poner así.
+Esto aumentará
+los momentos en familia.
+Quedó lindo. No me pueden decir que no
+está. Esto de botón de comprar ahora se
+lo voy a sacar. No me interesa.
+Esto de más vendido se lo voy a sacar
+también. No me interesa. Y así va a
+quedar. Está.
+Vamos de a poquito. La página está
+agarrando color poco a poco. Sé que le
+falta, está bastante fea todavía, pero
+ya estamos más cerca. Vamos a agregar
+otra sección. Hay una que me gusta
+mucho, la de imagen contexto, que es
+parecida,
+muy parecida. Esta te permite poner los
+productos también más vendidos, pero
+esta solo una imagen y un texto. Pero lo
+que voy a hacer en esta es que lo voy a
+cambiar
+en vez de en el lado horizontal, como
+dice acá a la derecha, lo voy a poner en
+el vertical
+para que sea diferente al de arriba. No,
+no me gustó en vertical, la verdad.
+Bueno, puede quedar bueno igual sí con
+cuando ponga la imagen, pero no no lo
+voy a volver a poner en horizontal, pero
+lo que voy a hacer es a la derecha. Me
+parece que ahí sí puede ser que
+A ver, para qué quedó en el mismo lugar.
+Verticales móviles. Ah, porque acá está
+el móvil. No, no, no, no.
+Vamos. Me gustaría ponerlo de este lado.
+A ver,
+posición arriba, abajo, centro. Eso no
+lo quiero tocar. Ancho, altura, esquema
+de colores, no lo quiero tocar.
+No sé por qué cuando le estoy dando acá
+en derecha lo sigue dejando a la
+izquierda, pero está lo vamos a poner
+así a la izquierda porque al final
+cuando vos venís acá en celular se ve
+así que es lo que importa, ¿no? Es donde
+la gente más compra y al final son
+caprichos míos. No te va a cambiar si
+está a la derecha, a la izquierda. Lo
+que importa es que pongas una buena foto
+acá para que entiendan qué es lo que
+vende tu tienda y por qué te tienen que
+comprar. Mira, esta me gusta. Está,
+ahora vas a entender. Es un producto que
+al principio vas a decir, "Pero ese
+producto de cocina está bueno porque son
+tipo simplemente unos cubiertos de
+madera." Pero vamos a poner acá, mira
+que hay mucho nicho para esto.
+Eh,
+si no sos No,
+mira herramienta. ¡Uf! Mira esto.
+Herramientas
+de calidad. Oh, mira esto. Mira esto.
+Para no coma.
+¡Uf!
+Para cocineros de calidad. Me encantó. Y
+acá vamos a poner las mejores.
+Ah, pero estoy escribiendo
+las mejores herramientas.
+para cocinar como un chef
+profesional,
+pero
+para tu familia.
+¿Qué tal? Y mira, lo podemos estirar un
+poco más, ¿no? Está bien ahí transmite
+el mensaje porque cuando lo veamos
+celular va a quedar así y va a quedar
+épico. Cuando le den comprar ahora les
+va a mandar a la parte de productos, así
+que queda buenísimo. Le podrían cambiar
+el color acá, pero el negro me gusta a
+mí, eh, por ahora no se lo voy a
+cambiar. Capaz después lo cambie, sí,
+porque tengo pensado una cosita que
+puede quedar linda con otro color, pero
+no se preocupe. Vamos acá
+a página de inicio otra vez.
+No sé qué toqué que se me salió. Ah, me
+mandó a colección.
+No sé por qué me mandó a la página de
+colección. Vamos a guardar por las dudas
+y vamos a salir,
+vamos a editar de vuelta. Y ahí me mandó
+a la página de inicio otra vez en la
+parte de arriba vamos a cambiar el
+título porque viene en inglés acá y
+vamos a poner
+envío. Vamos a poner así. Imagínate que
+vos tenés envío gratis. Capaz tu tienda
+no tiene, en ese caso pone otra cosa,
+pero si no envío gratis a todo el país
+y oferta
+exclusiva
+por Navidad.
+¡Uf! Está quedando eso. Lo dejamos
+arriba. Ya está agarrando más color.
+Guardamos de vuelta para que no se borre
+nada.
+Y vamos a darle una estética ahora
+diferente. Vamos a cambiar la estética.
+Van acá a la izquierda en el símbolo de
+configuración de tema. Van a colores y
+ahí vamos a cambiar el esquema. Vamos a
+elegir un esquema de esto y lo vamos a
+modificar. Yo en vez del fondo en
+blanco, voy a poner el fondo en negro.
+En vez de los títulos en negro, los voy
+a poner en blanco. Al revés. El texto en
+vez de gris lo voy a poner en blanco.
+Ahí los enlaces los voy a poner en
+blanco. Yo esto porque yo quiero darle
+estas estéticas, ¿no? Porque es mi
+gusto, pero cada uno le da su gusto. A
+ver cómo está quedando. Está mejorando
+esto. No me gusta. Este color quiero
+cambiarlo.
+Debe ser este, me imagino.
+Por el tono, ¿no? Capaz que no. A ver.
+está en este momento acá. Lo voy a poner
+en blanco. No sé si es ese. No,
+no queda mal. Igual
+fondo acá lo voy a poner en negro, texto
+en blanco.
+Todo esto no lo tienen por qué tocar. Yo
+porque le quiero dar estos colores.
+Ustedes no se preocupen. Ustedes háganlo
+como les gusta. Estoy toqueteando yo
+porque me gustan otros colores y creo
+que le puede quedar bien para la
+estética que le quiero dar a esta web.
+Bien. Este es el que me faltaría que
+cambie el color. No sé por qué no
+cambió. Tampoco quiero perder mucho
+tiempo en eso porque es un capricho. Va
+a quedar bien igual. Mírenlo acá en
+celular queda perfecto. Queda todo en
+negro y una sección acá en la que está
+en otro color. Bueno, llama la atención
+de la sección. Queda bueno. Ahora no
+hemos terminado. No se preocupen que acá
+falta bastante. Está alineación. Lo voy
+a poner todo en el centro.
+Igual eso sería para todo el general,
+así que
+no habría problema porque acá si ustedes
+piensan que no está totalmente alineado,
+que puede parecer que está un poco hacia
+la izquierda, es porque está la barrita
+en el costadito, así que eso no cuenta.
+Esta barrita ya ocupa un espacio
+chiquitito, así que sí está alineado,
+luego se va a ver alineado para las
+personas. ¿Qué otra cosa me gustaría
+cambiar? Vamos acá a volver a los
+colores. Vieron que están, por ejemplo,
+acá hay un botón donde dice comprar
+ahora, que ahora como yo puse en negro
+todo el fondo se pierde un poco.
+Entonces vienen acá
+y buscan la parte que dice botón
+taas.
+Título, no enlace, no enlaces. Al paszar
+el cursor. Este lo quiero cambiar
+también. Le voy a poner un color
+intermedio.
+Eso es para cuando pasa el cursor, la
+persona por arriba que cambie de
+colorcito cuando pasa el mouse para que
+se dé cuenta que que está tocando ahí el
+botón. Pero lo que me interesa ahora es
+cambiar este botón, el de comprar. Ahora
+vamos a irlo buscando
+acá. Fondo,
+botón secundario, no, botón principal.
+Este, vieron que hice botón principal en
+vez de negro, para que se vea, lo voy a
+poner en naranja, como si fuera fuego de
+una cocina, ya que es cocina ahí
+naranja. Miren qué lindo quedó. Y botón
+secundario. Acá voy a poner lo mismo.
+Botón secundario, fondo naranja, pero
+más tenue. Listo. Y ahí le doy guardar.
+Está agarrando color la tienda. Está
+quedando poco a poco. Le dije que era
+tener un poco de paciencia. Ahora, como
+cualquier tienda que transmita
+confianza, va a necesitar un logo porque
+acá dice mi tienda, ¿no? Entonces vamos
+a ir a Canil,
+por ejemplo, crear acá y le dan en logo
+y acá te da muchas opciones. Vos podés
+poner acá cocina y te va a dar opciones
+de logo para cocina, está por ejemplo, a
+mí me gusta este. Selecciono este y ahí
+lo modifico. Yo ya lo estuve modificando
+este y lo dejé así que combine con esa
+tienda, pero ustedes hagan el suyo, el
+que les guste o bueno, si la compran
+hecha no tienen que hacer eso. Van acá
+en acá, ¿viste? en la parte de la
+llavecita, otra vez de la tuerquita y
+acá donde dice logo y Fabicón le dan en
+seleccionar el logo predeterminado y ahí
+está el logo que yo ya hice. Lo hice
+bien grande, bien la letra bien grande
+contra los bordes para que luego se vea
+bien. Y acá lo cargo y lo voy a poner
+también en la parte de Fabicón, que es
+lo que se ve cuando arriba de la pestaña
+acá, como acá arriba en Shopify, ¿ven
+que se ve el logo de Shopify en
+chiquito? Bueno, ahí también lo vamos a
+meter.
+Ahí está.
+Logo en inverso. No sé qué es logo en
+inverso, la verdad no lo voy a tocar
+porque van poniendo funciones nuevas
+todo el tiempo. Acá le damos guardar y
+miren cómo quedaría. Queda el logo acá.
+Como ven en el medio. Está muy chiquito.
+Volvemos a donde estábamos y lo
+agrandamos acá. Y lo agrandamos. Esta de
+arriba es para agrandarlo en versión
+escritorio. Así lo agrandamos al máximo
+en este caso porque al máximo le queda
+lindo. Y en versión celular acá abajo, a
+ver hasta cuánto lo agrandamos. Y ahí
+queda lindo también al máximo. Ahí le
+damos guardar. Ya está tomando color la
+tienda cocinita. Otra cosa. Mira qué
+linda está quedando. Ah, no. Vamos a
+ponerle más cosas para que agarre más
+color. Todavía le falta. Vamos a a ir
+acá a la parte de las secciones otra
+vez, agregar sección y vamos a agregar
+más fotos para que se entienda mejor qué
+de qué va nuestra página, que va de
+productos de cocina, etcétera. Vamos a
+poner a ver qué estilo nos gusta.
+Ah. A mí me gusta. Sí, imagen contexto,
+pero ya pusimos bastantes.
+Esta que sería comparación de imágenes.
+A ver cómo nos quedaría. si se nos
+ocurre algo que le quede bueno.
+Eh, comparar imágenes sería, por
+ejemplo, cocinas algo antes y después de
+usar los productos de la tienda. Bueno,
+compara cómo te queda. Ahora te voy a
+explicar un ejemplo. Mira, agarro, lo
+pongo un poco más arriba, lo arrastro
+hasta acá arriba,
+acá arriba del todo. Imagínate, ¿no? El
+comparador de imágenes lo quiero poner
+acá arriba del todo y se me ocurre hacer
+algo así. Nunca usé esta función del
+comparador de imágenes, pero sería para
+algo así. Vamos a poner así cambia,
+mira,
+de novato
+a pro.
+Voy a poner así de cocinero
+novato a pro. Ese va a ser el título,
+está lo voy a achicar un poquito el
+título. Ahí. Acá poder seleccionar el
+tamaño.
+Y acá voy a poner en el en el subtítulo.
+Descubrí
+ya
+descubrí habilidades de cocina que no
+conocías. Como ven, yo paso bastante, le
+meto, le meto porque al final eh
+funciona con una buena frase
+inspiradora, funciona. No hay que ser
+tampoco, no sé, Da Vinci, no sé, algún
+escritor. Da Vinchi no era un escritor,
+es un artista, pero me entienden. Con
+eso ya quedaría bien. Y acá lo que vamos
+a poner es el comparador de imágenes que
+decíamos. Vamos a poner
+eh un, no sé, una hamburguesa, por
+ejemplo. Hamburguesa quemada.
+Eh, vamos a agarrar
+una imagen así, ¿o no? A ver,
+una hamburguesa, tipo, una imagen que
+esté quemada. Y esta puede ser. Esta
+está linda. Y ahora vamos a poner de
+vuelta. Vieron que esa tiene fondo
+blanco o bueno, vamos a poner
+hamburguesa.
+Todo esto lo pueden hacer con chat GPT
+también, pero bueno, lo voy a hacer así
+porque más fácil. Con fondo blanco,
+sin pan.
+Sin pan. Con N era pan, no, con m.
+Busquemos a ver si hay una igual,
+o sea, muy parecida a la que estuve
+mostrando. No, vamos a hacer así, mira.
+más fácil para no estar buscando. Vamos
+a probar con el con la vamos a decirle
+a eh esta hamburguesa,
+haceme la misma hamburguesa,
+pero que no esté quemada.
+Uso Gémini porque trabaja un poquito más
+rápido, pero a la vez puedo ir mandando
+lo mismo en CH GPT, viste, para que me
+des dos versiones y no esperar.
+Ahí lo mando en chat GPT también y que
+me diga chat GPT una me dé una imagen,
+la otra me la da Gémini, pero lo que
+quiero básicamente es una hamburguesa
+que esté quemada y una que no para que
+en el comparador de imágenes muestre lo
+que podrías lograr con estos productos,
+por ejemplo, que no se te queme la
+comida, lo que sea. Como ven acá quedó
+épica, la hizo muy bien de primera.
+Entonces, vengo acá, pongo imagen una,
+agrego acá y pongo
+esta quemada.
+Es para dar el mensaje, ¿no? Ese mensaje
+ni viene entrenar la página que con este
+tipo de productos dejas de ser un chef
+cualquiera y te volvés un chef que sabe
+lo que está haciendo. Y eso es lo que
+todo el mundo quiere, ahorrarse tiempo,
+ahorrarse dinero, ahorrarse problemas,
+tener cocinarle algo más rico a su
+familia, impresionar a su novia. ¿Cómo
+quedó? Ah, no me pueden decir que no
+quedó precioso el comparador de
+imágenes. Ahí le doy guardar y si
+quieren podemos ver cómo queda, ¿eh?
+Tendría que venir para ver página, la
+tendría que publicar primero, vamos a
+verlo después, pero en teoría, cuando
+ahora publiquemos la página, vamos a
+poder ver cómo esto se movería solo en
+el comparador de imágenes. Si no me
+equivoco, como les digo, una opción
+nueva esta del comparador de imágenes
+que no la he usado, pero supuestamente
+pasaría la imagen de quemado a como
+rápidamente a no quemado, pero quedó
+buenísimo, me parece, la verdad. Así,
+cocinita, descubrí la habilidad de
+cocina que no conocías, ver todo,
+comprar ahora me parece que quedó super
+bueno. Bueno, y acá yo le estuve
+agregando ya unos productos para que
+vean cómo se vería con los productos
+agregados. Como ven, a ver, un segundo
+ahí, como ven acá, esto era lo de la
+hamburguesa que les decía, ¿no? Que cómo
+queda pasándolo para un lado. Me parece
+que queda super profesional. Y luego
+acá, por ejemplo, pueden ver eh que si
+apretas el botón va a la parte de los
+productos que yo agregué. Si le aprietas
+cualquiera de estos dos botones de
+comprar ahora o ver todo. Luego acá
+están las fotos, cómo quedaría la gente
+reunida ahí que pusimos junto a tu
+familia, un poco tono navideño, ¿no? Y
+acá tenemos los dos productos que cargué
+de vuelta, aparecen acá, por ejemplo,
+acá lo que habíamos puesto de cocina
+inteligente y eso que explicaba por qué
+usamos la cocina y todo y vendemos este
+tipo de producto. Piensen que esto se ve
+más lindo en celular y la mayoría de
+personas te va a comprar por celular.
+Casi todo el mundo compra por celular.
+Acá pusimos esta opción acá. donde
+hablábamos de las herramientas que
+tenemos herramientas de calidad, tenemos
+herramientas artesanales, lo pusimos,
+por ejemplo, y también quedó linda la
+estética en negro y naranjita, ¿no? En
+celular se vería. Les muestro un
+segundo.
+Vengo acá
+en tienda online, vemos en ver editar
+tema acá
+y le das en la parte del móvil acá
+arriba en la esquina a la derecha y ahí
+lo puedes ver cómo se vería en celular.
+Como ve está épica. Mira eso que te
+decía la hamburguesa que podemos mover
+para los costados. Acá tenés la gente,
+los productos. Mira qué lindos se ven
+con los precios anterior y los precios
+de ahora. Pa pap pa. Como ven, lo que
+hice acá fue le di a la inteligencia
+artificial de Gémini de Google una
+imagen del producto y le dije, "Haceme
+una descripción para vender este
+producto." En el 30% inicial de esa
+descripción habla de los dolores que
+tiene ese cliente y por qué necesitaría
+una solución, qué es lo que le pasa. por
+ejemplo, no tiene tiempo para cocinar,
+eh, para estar con su familia o cada vez
+que piensa en cocinarse algo tiene que
+hacer mucho sacrificio y sabe que eso le
+baja las ganas. Entonces, que hable de
+eso al principio del texto, luego en el
+siguiente 30% que hable de la solución.
+Ya hablamos de los dolores, ahora de la
+solución. Y luego le dije que en el
+restante hable de los temas técnicos, el
+tiempo de envío, eh cuánto pesa el
+producto, en qué colores viene, lo que
+sea. Entonces acá me dio toda una
+descripción en la que aplica lo que yo
+le dije. La copié, la pegué en Shopify,
+como ven, la pegué acá en el producto y
+entre medio le fui poniendo fotos. Es la
+misma descripción que me dio Gémini,
+pero le fui poniendo fotos entre medio.
+Miren. Pam, pam, pam. ¿Cómo se hace eso?
+vas en Shopify, vas a la parte de
+producto, vas a agregar producto nuevo.
+Acá agregar producto, yo no lo voy a
+hacer porque ya creé estos dos para el
+ejemplo, pero le das a agregar producto
+y cuando abrís el producto, por ejemplo,
+esta cortadora de fiambre, pegas la
+descripción y entre medio vas pegando
+las fotos. Si no tenés fotos
+suficientes, se las pedís al chat GPT.
+Por ejemplo, acá le dije, "Ahora hceme
+fotos acá, háceme dos imágenes para
+vender este producto." Y ahí me hizo la
+primera, esta me puso a la persona
+cortando, luego me hizo esta y luego le
+dice que haga, "Haceme una familia feliz
+cortando para sus hijos." Me hizo esta
+señora cortando para sus hijos y puse
+todas esas fotos acá intercaladas. Las
+agarras acá, le das en el botón de
+agregar foto, acá, mira. Agregas acá,
+seleccionas la que querés o agregar
+imagen. Pum. Y ahí vas agregando fotos y
+vas poniendo para que no quede solo
+texto aburrido. Pones la descripción que
+te dio el chat GPT o el Gémini,
+cualquiera de los dos. Acá Chat GPT
+también le estuve pidiendo fotos y la
+pegas acá, ¿está? Y luego pones esa
+foto, le das guardar y te va a quedar
+así bien linda la descripción del
+producto para que la gente la lea y te
+compre el producto. Está. Entonces, tu
+tienda se va a ver profesional, se va a
+ver linda, tiene esto de de cocinero
+novato a pro, entonces la gente entiende
+qué va a ganar con comprar tus
+productos. ¿Tiene fotos, tiene productos
+cargados?
+La verdad que es una página super
+profesional y que la hicimos super
+rápida. Así que esto sería una solución
+que en cualquier nicho, cualquier tipo
+de productos que vos quieras vender con
+un poco de imaginación lo podés hacer
+también vos. Y si vos ves que te parece
+que es un montón, te viste esto hasta
+acá y decí, "No, no, la verdad que es
+complicado para mí." Y bueno, en ese
+caso comprala hecha porque la verdad que
+es muy barato comprar una tienda online
+hecha y te ahorras todo esto y sabes que
+la gente cuando entra a tu tienda le
+transmite confianza a la tienda y te
+compra. No sea cosa que empieces a
+intentar vender y no estés vendiendo y
+que no sea porque vos estés haciendo
+algo mal, sino porque tu tienda te quedó
+fea y no vende. Pero en el caso que vos
+viste este tutorial y decís, "No, yo me
+animo a hacerla y me va a quedar bien",
+podes hacerla copiando
